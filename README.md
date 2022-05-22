@@ -3,6 +3,9 @@
 ## Description
 This project demostrates a package to log your auth login events, and notify about the new devices and failed logins..
 
+## Package
+Visit https://rappasoft.com/docs/laravel-authentication-log/v1/introduction
+
 
 ## Running the APP
 To run the project, you must have:
