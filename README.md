@@ -46,9 +46,7 @@ Install the dependencies and start the server
 $ composer install
 $ php artisan key:generate
 $ php artisan migrate
-$ php artisan db:seed (To run database seeds. Users seeded have password as "password" by default)
 $ php artisan serve
-$ php artisan queue:work (to start queue worker on seperate terminal)
 ```
 
 
