@@ -32,7 +32,7 @@ return [
             'enabled' => env('FAILED_LOGIN_NOTIFICATION', false),
 
             // Use torann/geoip to attempt to get a location
-            'location' => false,
+            'location' => true,
 
             // The Notification class to send
             'template' => \Rappasoft\LaravelAuthenticationLog\Notifications\FailedLogin::class,
